@@ -1,0 +1,89 @@
+*{
+    margin : 0px;
+    box-sizing: border-box;
+
+}
+body{
+    background-color: black;
+    margin: 0px;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+    color: goldenrod;
+    background-color: bisque;
+    width: 50%;
+    padding: 8px auto;
+    margin: auto;
+}
+h3 {
+    text-align: center;
+    color: goldenrod;
+    margin: 10px auto;
+}
+ul {
+    background-color: rgba(218, 216, 97, 0.438);
+    width: auto;
+    height: auto;
+}
+li {
+    padding: 15px 15px;
+    margin: 10px 15px;
+    background-color: antiquewhite;
+    width: auto;
+    height: 50px;
+}
+/* recipies */
+.card {
+    height: auto;
+    width: 100%;
+    background-color: rgba(127, 255, 212, 0.253);
+    margin: 10px auto;
+    padding: 5px auto;
+}
+figure {
+    width: auto;
+    height: auto;
+}
+figure img {
+    width: 80%;
+    height: auto;
+    padding: 8px auto;
+    display: block;
+    margin: 10px auto;
+}
+figcaption p {
+    color: goldenrod;
+    text-align: center;
+    padding: 5px auto;
+}
+h4{
+    color: goldenrod;
+    text-align: center;
+    padding: 5px auto;
+    margin: 10px auto;
+    font-weight: bold;
+}
+figcaption ul li {
+    background-color: rgba(0, 0, 0, 0);
+    color: goldenrod;
+    padding:auto;
+    margin:2px;
+    font-size: 14px;
+    height: 20px;
+    width: auto;
+    display: inline-block;
+}
+figcaption ul {
+    background-color: rgba(0, 0, 0, 0);
+    border: 2px;
+    padding: 10px;
+}
+.steps li {
+    background-color: rgba(0, 0, 0, 0);
+    color: goldenrod;
+    padding:auto;
+    margin:2px;
+    font-size: 18px;
+    height: auto;
+}
